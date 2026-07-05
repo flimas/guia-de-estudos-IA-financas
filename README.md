@@ -17,7 +17,7 @@ Para a escolha dos ativos, o projeto une duas das maiores escolas de investiment
 
 As principais referências utilizadas neste caderno foram:
 
-## 📘 Livro TOP: Análise de Investimentos (CVM/APIMEC Brasil)
+## 📘 Livro: Análise de Investimentos (CVM/APIMEC Brasil)
 
 Material educacional oficial que aborda:
 
@@ -28,7 +28,7 @@ Material educacional oficial que aborda:
 - Avaliação por Múltiplos
 - Valuation
 
-## 📘 Livro TOP: Planejamento Financeiro Pessoal (CVM/Planejar)
+## 📘 Livro: Planejamento Financeiro Pessoal (CVM/Planejar)
 
 Guia focado em:
 
@@ -89,7 +89,7 @@ Os ativos mais indicados são:
 
 ---
 
-## 2. Análise Fundamentalista (Método LBBG)
+## 2. Análise Fundamentalista 
 
 A estratégia combina Graham e Barsi.
 
@@ -221,27 +221,4 @@ Compare:
 - Dívida Líquida/EBITDA
 
 Utilizando os princípios de Benjamin Graham (margem de segurança) e Luiz Barsi (dividendos e perenidade), indique qual empresa representa a melhor oportunidade de compra atualmente e explique detalhadamente os motivos.
-```
-
----
-
-## Automação Financeira (Node.js/Python)
-
-```text
-Crie um script assíncrono em [Node.js ou Python] utilizando a biblioteca financeira do Yahoo.
-
-Extraia para uma lista de ações da B3 (ex.: ['BBAS3.SA', 'TAEE11.SA', 'EGIE3.SA']):
-
-- Cotação atual
-- P/L
-- P/VPA
-- Dividend Yield
-
-Implemente uma estrutura IF/ELSE que classifique cada ativo como "COMPRAR" apenas quando:
-
-- P/L < 15
-- P/VPA < 1.5
-- Dividend Yield > 6%
-
-Exiba o resultado final em formato de tabela no terminal.
 ```
