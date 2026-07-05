@@ -202,23 +202,3 @@ Calcule a distribuição percentual do meu orçamento.
 
 Depois, utilizando a regra do 50/30/20, identifique onde estou fora da proporção ideal e monte um plano de redução de gastos focado nas despesas variáveis para que eu consiga atingir a meta de investir 20% da renda no próximo mês.
 ```
-
----
-
-## Análise Fundamentalista
-
-```text
-Atue como um analista fundamentalista sênior.
-
-Faça uma análise comparativa entre as empresas [AÇÃO 1] e [AÇÃO 2] pertencentes ao mesmo setor.
-
-Compare:
-
-- P/L
-- P/VPA
-- ROE
-- Margem Líquida
-- Dívida Líquida/EBITDA
-
-Utilizando os princípios de Benjamin Graham (margem de segurança) e Luiz Barsi (dividendos e perenidade), indique qual empresa representa a melhor oportunidade de compra atualmente e explique detalhadamente os motivos.
-```
